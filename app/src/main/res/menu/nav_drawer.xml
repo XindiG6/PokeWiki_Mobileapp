@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pokemon_page"
+        android:title="Pokemon Page"/>
+    <item
+        android:id="@+id/moves_page"
+        android:title="Moves Page"/>
+    <item
+        android:id="@+id/berry_page"
+        android:title="Berry Page"/>
+
+</menu>

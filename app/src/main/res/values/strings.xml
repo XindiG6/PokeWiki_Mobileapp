@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokeWiki</string>
+
+
+    <string name="pref_limit" translatable="false">pref_limit</string>
+    <string name="pref_limit_title">Display num</string>
+    <string name="pokemon_page">Pokemon Page</string>
+    <string name="moves_page">Moves Page</string>
+    <string name="berry_page">Berry Page</string>
+    <string name="berry_action_share">Berry Share</string>
+    <string name="move_action_share">Move Share</string>
+</resources>
